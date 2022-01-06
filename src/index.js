@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Input from './componentes/input';
+import Footer from './componentes/footer';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
